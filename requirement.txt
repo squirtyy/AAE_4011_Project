@@ -1,0 +1,13 @@
+These are the dependency libraries required for the code to function
+
+from collections import namedtuple, deque
+from itertools import count
+
+import matplotlib.pyplot as plt
+import torch
+import torch.nn as nn
+import torch.optim as optim
+import torch.nn.functional as F
+
+import math
+import random
